@@ -1,0 +1,10 @@
+N:\Development\TopMoveProduction\TopMove\TopMove.Infrastructure\bin\Debug\TopMove.Infrastructure.dll
+N:\Development\TopMoveProduction\TopMove\TopMove.Infrastructure\bin\Debug\TopMove.Infrastructure.pdb
+N:\Development\TopMoveProduction\TopMove\TopMove.Infrastructure\bin\Debug\StructureMap.dll
+N:\Development\TopMoveProduction\TopMove\TopMove.Infrastructure\bin\Debug\StructureMap.Net4.dll
+N:\Development\TopMoveProduction\TopMove\TopMove.Infrastructure\bin\Debug\StructureMap.pdb
+N:\Development\TopMoveProduction\TopMove\TopMove.Infrastructure\bin\Debug\StructureMap.xml
+N:\Development\TopMoveProduction\TopMove\TopMove.Infrastructure\bin\Debug\StructureMap.Net4.pdb
+N:\Development\TopMoveProduction\TopMove\TopMove.Infrastructure\obj\Debug\TopMove.Infrastructure.dll
+N:\Development\TopMoveProduction\TopMove\TopMove.Infrastructure\obj\Debug\TopMove.Infrastructure.pdb
+N:\Development\TopMoveProduction\TopMove\TopMove.Infrastructure\obj\Debug\TopMove.Infrastructure.csprojResolveAssemblyReference.cache

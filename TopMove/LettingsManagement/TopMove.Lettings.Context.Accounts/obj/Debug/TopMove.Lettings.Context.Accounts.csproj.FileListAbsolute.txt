@@ -1,0 +1,14 @@
+N:\Development\TopMoveProduction\TopMove\LettingsManagement\TopMove.Lettings.Context.Accounts\bin\Debug\TopMove.Lettings.Context.Accounts.dll
+N:\Development\TopMoveProduction\TopMove\LettingsManagement\TopMove.Lettings.Context.Accounts\bin\Debug\TopMove.Lettings.Context.Accounts.pdb
+N:\Development\TopMoveProduction\TopMove\LettingsManagement\TopMove.Lettings.Context.Accounts\bin\Debug\TopMove.Infrastructure.dll
+N:\Development\TopMoveProduction\TopMove\LettingsManagement\TopMove.Lettings.Context.Accounts\bin\Debug\TopMove.Lettings.Events.dll
+N:\Development\TopMoveProduction\TopMove\LettingsManagement\TopMove.Lettings.Context.Accounts\bin\Debug\TopMove.Lettings.Shared.dll
+N:\Development\TopMoveProduction\TopMove\LettingsManagement\TopMove.Lettings.Context.Accounts\bin\Debug\StructureMap.dll
+N:\Development\TopMoveProduction\TopMove\LettingsManagement\TopMove.Lettings.Context.Accounts\bin\Debug\TopMove.Infrastructure.pdb
+N:\Development\TopMoveProduction\TopMove\LettingsManagement\TopMove.Lettings.Context.Accounts\bin\Debug\TopMove.Lettings.Events.pdb
+N:\Development\TopMoveProduction\TopMove\LettingsManagement\TopMove.Lettings.Context.Accounts\bin\Debug\TopMove.Lettings.Shared.pdb
+N:\Development\TopMoveProduction\TopMove\LettingsManagement\TopMove.Lettings.Context.Accounts\bin\Debug\StructureMap.pdb
+N:\Development\TopMoveProduction\TopMove\LettingsManagement\TopMove.Lettings.Context.Accounts\bin\Debug\StructureMap.xml
+N:\Development\TopMoveProduction\TopMove\LettingsManagement\TopMove.Lettings.Context.Accounts\obj\Debug\TopMove.Lettings.Context.Accounts.csprojResolveAssemblyReference.cache
+N:\Development\TopMoveProduction\TopMove\LettingsManagement\TopMove.Lettings.Context.Accounts\obj\Debug\TopMove.Lettings.Context.Accounts.dll
+N:\Development\TopMoveProduction\TopMove\LettingsManagement\TopMove.Lettings.Context.Accounts\obj\Debug\TopMove.Lettings.Context.Accounts.pdb

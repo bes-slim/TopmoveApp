@@ -1,0 +1,14 @@
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.DomainEvents\bin\Debug\TopMove.Lettings.Events.dll
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.DomainEvents\bin\Debug\TopMove.Lettings.Events.pdb
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.DomainEvents\bin\Debug\TopMove.Infrastructure.dll
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.DomainEvents\bin\Debug\TopMove.Lettings.Infrastructure.dll
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.DomainEvents\bin\Debug\TopMove.Lettings.Shared.dll
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.DomainEvents\bin\Debug\StructureMap.dll
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.DomainEvents\bin\Debug\TopMove.Infrastructure.pdb
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.DomainEvents\bin\Debug\TopMove.Lettings.Infrastructure.pdb
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.DomainEvents\bin\Debug\TopMove.Lettings.Shared.pdb
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.DomainEvents\bin\Debug\StructureMap.pdb
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.DomainEvents\bin\Debug\StructureMap.xml
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.DomainEvents\obj\Debug\TopMove.Lettings.Events.csprojResolveAssemblyReference.cache
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.DomainEvents\obj\Debug\TopMove.Lettings.Events.dll
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.DomainEvents\obj\Debug\TopMove.Lettings.Events.pdb

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html data-ng-app="app">
+<!-- <![endif]-->
+<head>
+    <title>Real Estate Genie v1.0</title>
+    <meta charset="utf-8" />
+    <meta name="description" content="app, web app, responsive, responsive layout, admin, admin panel, admin dashboard, flat, flat ui, ui kit, AngularJS, ui route, charts, widgets, components" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link rel="stylesheet" href="/content/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="/content/animate.css" type="text/css" />
+    <link rel="stylesheet" href="/content/font-awesome.min.css" type="text/css" />
+    <link rel="stylesheet" href="/content/simple-line-icons.css" type="text/css" />
+    <link rel="stylesheet" href="/content/font.css" type="text/css" />
+    <link rel="stylesheet" href="/content/app.css" type="text/css" />
+</head>
+
+<body ng-controller="AppCtrl">
+    <div class="app" id="app" ng-class="{'app-header-fixed':app.settings.headerFixed, 'app-aside-fixed':app.settings.asideFixed, 'app-aside-folded':app.settings.asideFolded}" ui-view>
+    <!-- jQuery -->
+        @RenderBody()
+    </div>
+ 
+    <!-- jQuery -->
+    @Scripts.Render("~/bundles/jquery")
+    <!-- Angular -->
+    @Scripts.Render("~/bundles/angular")
+    
+    <!-- App -->
+    @Scripts.Render("~/bundles/app")
+    html
+    
+</body>
+</html>

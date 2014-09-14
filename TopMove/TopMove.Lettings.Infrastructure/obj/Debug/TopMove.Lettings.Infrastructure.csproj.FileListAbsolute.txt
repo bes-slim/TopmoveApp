@@ -1,0 +1,5 @@
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.Infrastructure\bin\Debug\TopMove.Lettings.Infrastructure.dll
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.Infrastructure\bin\Debug\TopMove.Lettings.Infrastructure.pdb
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.Infrastructure\obj\Debug\TopMove.Lettings.Infrastructure.dll
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.Infrastructure\obj\Debug\TopMove.Lettings.Infrastructure.pdb
+N:\Development\TopMoveProduction\TopMove\TopMove.Lettings.Infrastructure\obj\Debug\TopMove.Lettings.Infrastructure.csprojResolveAssemblyReference.cache
