@@ -15,6 +15,9 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
+using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Web.Http.Dependencies;
 using StructureMap;
 
@@ -23,37 +26,42 @@ namespace Web.DependencyResolution
     /// <summary>
     /// The structure map dependency resolver.
     /// </summary>
-    public class StructureMapDependencyResolver : StructureMapDependencyScope, IDependencyResolver
+    public class StructureMapDependencyResolver : IDependencyResolver
     {
-        #region Constructors and Destructors
+        private readonly Func<IContainer> _factory;
 
-        /// <summary>
-        /// Initializes a new instance of the <see cref="StructureMapDependencyResolver"/> class.
-        /// </summary>
-        /// <param name="container">
-        /// The container.
-        /// </param>
-        public StructureMapDependencyResolver(IContainer container)
-            : base(container)
+        public StructureMapDependencyResolver(Func<IContainer> factory)
         {
+            _factory = factory;
         }
 
-        #endregion
+        public object GetService(Type serviceType)
+        {
+            if (serviceType == null)
+            {
+                return null;
+            }
 
-        #region Public Methods and Operators
+            var factory = _factory();
 
-        /// <summary>
-        /// The begin scope.
-        /// </summary>
-        /// <returns>
-        /// The System.Web.Http.Dependencies.IDependencyScope.
-        /// </returns>
+            return serviceType.IsAbstract || serviceType.IsInterface
+                ? factory.TryGetInstance(serviceType)
+                : factory.GetInstance(serviceType);
+        }
+
+        public IEnumerable<object> GetServices(Type serviceType)
+        {
+            return _factory().GetAllInstances(serviceType).Cast<object>();
+        }
+
         public IDependencyScope BeginScope()
         {
-            IContainer child = this.Container.GetNestedContainer();
-            return new StructureMapDependencyResolver(child);
+            return this;
         }
 
-        #endregion
+        public void Dispose()
+        {
+           
+        }
     }
 }
